@@ -1,0 +1,117 @@
+@media (max-width: 1920px){
+    .all{
+        background: url(https://maps.spravka-region.ru/img/225/46507300847602473.jpg);
+        background-size: cover;
+        color: black;
+        background-attachment: fixed;
+    }
+}
+@media (max-width: 768px) {
+    .contaner {
+        background: url(https://i.pinimg.com/originals/86/19/88/86198816c024b67da4329bcec35be0c7.jpg);
+        background-size: inherit;
+        background-attachment: fixed;
+      }
+      /* .info img{
+          width: 80%;
+          margin-left: 50px;
+          margin-top: 50px; */
+      }
+      .info{
+          /* flex-direction: column; */
+          /* background: url(https://get.wallhere.com/photo/nature-landscape-forest-trees-mist-dirt-road-fallen-leaves-branch-fall-leaves-1495541.jpg); */
+          /* background-size: unset; */
+          color: white;
+      }
+      .info p{
+          color: white;
+      }
+      .info a{
+          color: white;
+          margin-bottom: 20px;
+          font-size: 20px;
+      }
+      /* .info-text {
+          background: lightcoral;
+          background-size: cover;
+          margin: 5%;
+          padding: 5%;
+          border-radius: 20px;
+      } */
+      .card{
+        margin: 5%;
+        padding: 5%;
+      }
+      .contact{
+          background: khaki;
+          margin: 5%;
+          padding: 5%;
+          border-radius: 20px;
+      }
+      .btn{
+          margin-left: 40%;
+      }
+      .text-last{
+        background: rgb(150, 124, 235);
+        margin: 5%;
+        padding: 5%;
+        border-radius: 20px;
+      }
+      .text-last ul{
+          color: black;
+      }
+  @media (max-width : 480px) {
+      .contaner {
+        background: url(https://i.pinimg.com/originals/86/19/88/86198816c024b67da4329bcec35be0c7.jpg);
+        background-size: inherit;
+        background-attachment: fixed;
+      }
+      .info img{
+          width: 80%;
+          margin-left: 50px;
+          margin-top: 50px;
+      }
+      .info{
+          flex-direction: column;
+          /* background: url(https://get.wallhere.com/photo/nature-landscape-forest-trees-mist-dirt-road-fallen-leaves-branch-fall-leaves-1495541.jpg); */
+          /* background-size: unset; */
+          color: white;
+      }
+      .info p{
+          color: white;
+      }
+      .info a{
+          color: rgb(121, 19, 189);
+          margin-bottom: 20px;
+          font-size: 20px;
+      }
+      .info-text {
+          background: lightcoral;
+          background-size: cover;
+          margin: 5%;
+          padding: 5%;
+          border-radius: 20px;
+      }
+      .card{
+        margin: 5%;
+        padding: 5%;
+      }
+      .contact{
+          background: khaki;
+          margin: 5%;
+          padding: 5%;
+          border-radius: 20px;
+      }
+      .btn{
+          margin-left: 33%;
+      }
+      .text-last{
+        background: rgb(150, 124, 235);
+        margin: 5%;
+        padding: 5%;
+        border-radius: 20px;
+      }
+      .text-last ul{
+          color: black;
+      }
+  }
